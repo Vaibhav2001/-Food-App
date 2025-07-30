@@ -134,6 +134,11 @@ const Restaurant = () => {
         }
 
 
+
+
+        
+
+
         {
             nearbyRes?.length > 0 && (
                 <div className='mx-auto w-[80vw] mt-10'>
